@@ -82,5 +82,5 @@ Placez vous dans le répertoire décompressé, puis lancez la commande suivante 
 Connectez vous au réseau wifi "petitbot" puis entrez l'adresse suivante dans un navigateur http://192.168.4.1
 
 ## Credits
-CCbyNCSA Les petits débrouillards 2016
+CCbyNCSA Les petits débrouillards 2023
 
