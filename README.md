@@ -8,6 +8,9 @@ Si vous repoduisez le projet, merci de communiquer avec le hastag #petitbot
 ## Installation
 Suivez le guide disponible ici :
 
+## Code
+Le code se trouve ici : https://github.com/S-Malchere/petitbot/raw/main/petitbot_v4.zip
+
 ## Usage
 Connectez vous au réseau wifi "petitbot" puis entrez l'adresse suivante dans un navigateur http://192.168.4.1
 
